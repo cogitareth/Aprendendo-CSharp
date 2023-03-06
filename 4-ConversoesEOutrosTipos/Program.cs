@@ -8,6 +8,7 @@ class Programa
 
         double salario = 3000.15;
 
+        //tipo de variável com 32 bits
         int salarioInteiro = (int)salario;
         Console.WriteLine(salarioInteiro);  
 
